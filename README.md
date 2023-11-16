@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Big Data Tech Stack**
 
-- 🏢 Two years of experience as a PDM Analyst **RS Components, BlackHawk Industrial, Ferguson**
+- 🏢 Two years of experience as a PDM Analyst
 
 - 💬 Ask me about **Python, DataBase, Excel, Visualization**
 
