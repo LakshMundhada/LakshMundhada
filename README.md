@@ -1,12 +1,14 @@
 ![logo](https://img.freepik.com/free-vector/admin-data-center-room-with-server-hardware_107791-8201.jpg?w=1060&t=st=1700234672~exp=1700235272~hmac=b479204d17986684d06619cfd9ac2d8aa6f8276d69a7a93c572bfc9ca3be6d64)
-<h1 align="center">Hi 👋, I'm Laksh 👽 </h1>
+
+<h1 align="center"> <href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=F78C5DFF&duration=4000&pause=100&size=30&center=true&vCenter=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B;I'm+Laksh+Mundhada!;%F0%9F%91%BD" alt="Typing SVG" /></h1>
+
 <h3 align="center">A passionate Data Engineer from Mumbai, India.</h3>
 
 - 🌱 I’m currently learning **Big Data Tech Stack**
 
 - 🏢 Two years of experience as a PDM Analyst
 
-- 💬 Ask me about **Python, DataBase, Excel, Visualization**
+- 💬 Ask me about **Python, DataBase, Excel and Visualization**
 
 - ⚡ Fun fact **Astronauts are not allowed to eat beans before they go into space. Seems like NASA wants to avoid "musical" situations in zero gravity.**
 
